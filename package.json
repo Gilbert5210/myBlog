@@ -2,7 +2,7 @@
   "name": "us",
   "version": "0.1.0",
   "private": true,
-  "homepage":".",
+  "homepage": ".",
   "dependencies": {
     "animate.css": "^3.6.1",
     "animateplus": "^2.0.1",
